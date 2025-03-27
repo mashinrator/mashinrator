@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming, web-development, mobile-development and machine learning
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on future projects
-- 📫 How to reach me @mashinrator - discord. @@mash1nator - telegram
+- 📫 How to reach me @mashinrator - discord. @mash1nator - telegram
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I was VFX artist on Roblox platform
 
